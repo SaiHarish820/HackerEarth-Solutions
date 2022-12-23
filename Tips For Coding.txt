@@ -1,0 +1,10 @@
+Hello Guys!!!
+
+Here is useful AI Bot in your coding journey Chatgpt - https://openai.com/blog/chatgpt/
+
+ChatGPT is a really helpful tool that I have been using to improve my coding skills. It's a variant of the GPT language model that has been fine-tuned for chat-based interactions, so you can ask it questions about programming concepts or languages and it will generate a response that's similar to how a human would respond.
+
+I've been using ChatGPT to get guidance on how to approach coding challenges, or to ask for recommendations on resources to learn a new programming language. It's not able to execute code or provide direct solutions to specific problems, but it can provide helpful suggestions and examples to help me understand concepts better.
+
+To use ChatGPT, you'll need to find a platform that provides access to the model, like the OpenAI API or a chatbot service. Then you can interact with it by typing or speaking your questions or prompts, and it will generate a response based on its understanding of the prompt and its knowledge of programming concepts and languages. I've found it really helpful in improving my coding skills, and I'd definitely recommend giving it a try!
+
